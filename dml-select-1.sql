@@ -3,7 +3,11 @@
 
 -- 1. **Write a query to display the team details. Display the records sorted in the order of team name.**
 
+SELECT * FROM TEAM ORDER BY COACH;
+
 -- 2. **Write a query to display the player details whose name starts with a letter `S` and who do not belong to the country 'South Africa'. Display the records sorted in descending order based on player name.**
+
+
 
 -- 3. **Write a query to display the event number and the seconds taken for each event. Display the records sorted in ascending order based on event number.**
 
